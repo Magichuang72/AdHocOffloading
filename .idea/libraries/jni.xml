@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jni">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/src/jni" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
